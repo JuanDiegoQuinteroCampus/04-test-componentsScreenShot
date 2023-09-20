@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Captura del componente <tabla.jsx> fotico :) 1`] = `
+<div>
+  <div>
+    Table
+  </div>
+</div>
+`;
